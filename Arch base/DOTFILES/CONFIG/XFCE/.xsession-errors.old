@@ -1,0 +1,44 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: une instance de gpg-agent fonctionne déjà —
+pas de démarrage d'une nouvelle instance
+
+(xfwm4:866): xfwm4-WARNING **: 20:42:02.671: Unsupported GL renderer (SVGA3D; build: RELEASE;  LLVM;).
+
+** (wrapper-2.0:888): WARNING **: 20:42:04.279: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:888): pulseaudio-plugin-WARNING **: 20:42:04.279: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:888): libnotify-WARNING **: 20:42:04.306: Failed to connect to proxy
+
+(wrapper-2.0:886): Gtk-WARNING **: 20:42:04.371: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:888): Gtk-WARNING **: 20:42:04.399: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:898): Gtk-WARNING **: 20:42:04.992: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkButton)
+conky: cannot open /home/erik/.config/conky/AUR-Misty-LUA.conkyrc: Aucun fichier ou dossier de ce type
+
+** (xfce4-clipman:917): WARNING **: 20:42:05.879: Unable to register GApplication: Un objet est déjà exporté pour l’interface « org.gtk.Application » en « /org/xfce/clipman »
+
+(xfce4-clipman:917): GLib-GIO-CRITICAL **: 20:42:05.879: g_application_get_is_remote: assertion 'application->priv->is_registered' failed
+
+(xfce4-clipman:917): GLib-WARNING **: 20:42:05.879: g_set_application_name() called multiple times
+
+** (xfce4-power-manager:950): WARNING **: 20:42:06.095: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:950): WARNING **: 20:42:06.096: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+** Message: 20:42:06.369: tray.vala:166: checking updates is not enabled, exiting
+
+(xfce4-power-manager:950): GLib-GObject-WARNING **: 20:42:06.449: ../glib/gobject/gsignal.c:2614: signal 'Changed' is invalid for instance '0x563a566e1d30' of type 'GDBusProxy'
+
+(xfce4-power-manager:950): xfce4-power-manager-WARNING **: 20:42:06.477: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:950): WARNING **: 20:42:06.485: No outputs have backlight property
+
+(xfce4-power-manager:950): xfce4-power-manager-WARNING **: 20:42:06.494: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’interface « org.freedesktop.UPower.KbdBacklight » n’existe pas pour l’objet à l’emplacement /org/freedesktop/UPower/KbdBacklight
+
+(xfce4-session:802): GLib-WARNING **: 20:46:54.921: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+Gdk-Message: 20:46:55.186: xfdesktop: Fatal IO error 11 (Ressource temporairement non disponible) on X server :0.
+

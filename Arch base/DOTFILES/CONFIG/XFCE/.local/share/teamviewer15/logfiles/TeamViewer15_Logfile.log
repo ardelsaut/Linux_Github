@@ -1,0 +1,108 @@
+2021/03/13 17:11:46.406  1955 139821054554560 GX0   Logger started.
+2021/03/13 17:11:46.423  1955 139821054554560 GX0   Found 0 stack dump files ...
+2021/03/13 17:11:46.423  1955 139821054554560 GX0   Found 0 core dump files ...
+2021/03/13 17:11:46.442  1955 139821054554560 GX0   systemd: logind service available
+2021/03/13 17:11:46.445  1955 139821054554560 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='1', canGraphical=1, canTTY=1, canMultiSession=0]
+2021/03/13 17:11:46.447  1955 139821054554560 GX0   LogindSessionInfo: New session LogindSessionInfo [id=1 user=nono state=user active=1 reliable=1 infoId=2212294583] [path=/org/freedesktop/login1/session/_31 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: nono [uid=1000, gid=1000 home=/home/nono gecos=Arnaud Delsaut shell=/bin/zsh]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1615651850924145 service=lightdm-autologin defaultCG= leader=773 audit=1 remote=0 rHost= rUser= killProc=0]
+2021/03/13 17:11:46.452  1955 139821054554560 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2021/03/13 17:11:46.452  1955 139821054554560 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2021/03/13 17:11:46.453  1955 139821054554560 GX0   SysSessionInfoManager::SessionAdded: adding session XSession: 0 [SysSession 2212294583 [type=88 vt=7 tty= pseudotty=0 info=1 id=1 user=nono state=user active=1 reliable=1]]
+2021/03/13 17:11:46.453  1955 139821054554560 GX0   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=7 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2021/03/13 17:11:46.456  1955 139821054554560 GX0   SysSessionInfoManager::GetOwnProcessSession: own session cache set to '2212294583'
+2021/03/13 17:11:46.461  1955 139821054554560 GX0   Running on Qt 5.15.2
+2021/03/13 17:11:46.657  1955 139821054554560 GX0   Initialised XRandR extension 1.6 (base=89 error=147)
+2021/03/13 17:11:46.659  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC Virtual1 2560x1600@60Hz [0, 0, 2560, 1600] - 1
+2021/03/13 17:11:46.659  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/03/13 17:11:46.659  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/03/13 17:11:46.659  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2021/03/13 17:11:46.659  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 4 has no outputs
+2021/03/13 17:11:46.660  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 5 has no outputs
+2021/03/13 17:11:46.660  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 6 has no outputs
+2021/03/13 17:11:46.660  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 7 has no outputs
+2021/03/13 17:11:46.660  1955 139821054554560 GX0   Virtual Desktop [0, 0, 2560, 1600]
+2021/03/13 17:11:46.662  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC Virtual1 2560x1600@60Hz [0, 0, 2560, 1600] - 1
+2021/03/13 17:11:46.662  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2021/03/13 17:11:46.662  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2021/03/13 17:11:46.662  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2021/03/13 17:11:46.663  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 4 has no outputs
+2021/03/13 17:11:46.663  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 5 has no outputs
+2021/03/13 17:11:46.663  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 6 has no outputs
+2021/03/13 17:11:46.663  1955 139821054554560 GX0   MonitorInfo: [XRandR 1.2] CRTC 7 has no outputs
+2021/03/13 17:11:46.663  1955 139821054554560 GX0   Virtual Desktop [0, 0, 2560, 1600]
+2021/03/13 17:11:46.706  1955 139821054554560 GX0   Loaded language 'fr', using locale 'fr'
+2021/03/13 17:11:46.706  1955 139821054554560 GX0   InterProcessBase::SecureNetwork created
+2021/03/13 17:11:46.715  1955 139821054554560 GX0   AutoLogin::Login: enabled: 1
+2021/03/13 17:11:46.715  1955 139821054554560 GX0   AccountLoginStateMachine::Reset
+2021/03/13 17:11:46.720  1955 139820347147840 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2021/03/13 17:11:46.720  1955 139820347147840 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2021/03/13 17:11:46.720  1955 139821023311424 GX0   Local TCP connection established
+2021/03/13 17:11:46.777  1955 139821014918720 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2021/03/13 17:11:46.777  1955 139821014918720 GX0   IpcRemoteSettingsHandler::HandleCommand UserSettings process sends sync settings response to network.
+2021/03/13 17:11:46.777  1955 139821006526016 GX0   Received Control_InitIPC_Response processtype=1
+2021/03/13 17:11:46.777  1955 139821006526016 GX0   Received Control_InitIPC_Response runningProcesses=3
+2021/03/13 17:11:46.777  1955 139821006526016 GX0   IPCConnection: all processes 3 completely initialized
+
+
+
+Start:              2021/03/13 17:11:46.778 (UTC+1:00)
+Version:            15.14.5 
+Version short hash: f7f121a047a
+ID:                 0
+Loglevel:           Info (100)
+License:            0
+Server:             master3.teamviewer.com
+IC:                 1142518110
+CPU:                Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+CPU extensions:     y8
+OS:                 Lx Arch Linux r l (x86_64)
+IP:                 192.168.1.177
+Proxy-Settings:     Type=0 IP= User=
+
+2021/03/13 17:11:49.042  1955 139821006526016 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 886c3b1b-e875-4e39-ad17-90e3713723a6)
+2021/03/13 17:11:49.042  1955 139821006526016 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 25a27fd7-da2e-4547-9d36-e882111cdbc7)
+2021/03/13 17:11:49.042  1955 139821006526016 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: f393a78a-deb1-4098-8095-76801fe5fa0b)
+2021/03/13 17:11:49.042  1955 139821006526016 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 5ae348a9-d6a0-4b97-b751-f0a7eff357c2)
+2021/03/13 17:11:49.042  1955 139821006526016 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 1e13e95b-fea2-46b5-8cb7-b70ecf1affe8)
+2021/03/13 17:11:49.042  1955 139821006526016 GX0   Account::UpdateState: KA = 1, active = 1
+2021/03/13 17:11:49.047  1955 139821054554560 GX0   Account::SetLoginState: new state: 2
+2021/03/13 17:11:49.954  1955 139821054554560 GX0   SystemID m=1 s=0 053736abf81e4c45941d0590ff85e7c9
+2021/03/13 17:11:49.959  1955 139821054554560 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=913205979 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2021/03/13 17:11:50.179  1955 139821023311424 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "913205979", TSUserID "913205979", ServerID "913205979"
+2021/03/13 17:11:50.223  1955 139821054554560 GX0   ManagerHolderStateMachine: Switching from None to ReadyForLogin
+2021/03/13 17:11:50.223  1955 139821014918720 GX0   ChatManagerHolder::ClearAccountChat
+2021/03/13 17:11:50.224  1955 139821014918720 GX0   ChatManager::ChatManager: created
+2021/03/13 17:11:50.224  1955 139821014918720 GX0   ChatManager::Factory: ChatManager created
+2021/03/13 17:11:50.224  1955 139821014918720 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2021/03/13 17:11:50.224  1955 139821014918720 GX0   IncomingCommandRegistration::Start: registering for ready state properties
+2021/03/13 17:11:50.224  1955 139821014918720 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 97ce2b9e-3a18-4e94-ba28-204743dbba97)
+2021/03/13 17:11:50.224  1955 139821014918720 GX0   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2021/03/13 17:11:50.229  1955 139821054554560 GX0   Initialised XFixes extension (base=87 error=140)
+2021/03/13 17:11:50.231  1955 139821006526016 GX0   IpcRouterClock: received router time: 20210313T161143.266115
+2021/03/13 17:11:50.231  1955 139821006526016 GX0!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/03/13 17:11:50.232  1955 139821006526016 GX0!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2021/03/13 17:11:50.235  1955 139821054554560 GX0   DBusStatusNotifier: registered at org.kde.StatusNotifierWatcher
+2021/03/13 17:14:07.956  1955 139821054554560 GX0   GuiMain: commitDataRequest (session might shut down)
+2021/03/13 17:14:08.275  1955 139819598476864 GX0   XClipboard: Shutting down event loop
+2021/03/13 17:14:08.335  1955 139821054554560 GX0   Chat::Stop: Stopping chat
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   IncomingCommandRegistration::Stop: disconnecting ready state properties
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   IncomingCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 97ce2b9e-3a18-4e94-ba28-204743dbba97)
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   ChatManagerHolder::Close
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   ChatManager::~ChatManager: destroyed
+2021/03/13 17:14:08.336  1955 139821054554560 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: destroyed
+2021/03/13 17:14:08.336  1955 139821006526016 GX0   CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ConversationListModel::Close] trackee expired, callback was not called
+2021/03/13 17:14:08.336  1955 139821006526016 GX0!  CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: ConversationManager::Close] callback was not called and trackee still exists
+2021/03/13 17:14:08.336  1955 139821006526016 GX0!  CallbackWrapperBehaviour::MandatoryOneShot::OnDestructor: [Context: Chat::Stop] callback was not called and trackee still exists
+2021/03/13 17:14:08.353  1955 139821054554560 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 1e13e95b-fea2-46b5-8cb7-b70ecf1affe8)
+2021/03/13 17:14:08.353  1955 139821054554560 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 5ae348a9-d6a0-4b97-b751-f0a7eff357c2)
+2021/03/13 17:14:08.353  1955 139821054554560 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 25a27fd7-da2e-4547-9d36-e882111cdbc7)
+2021/03/13 17:14:08.353  1955 139821054554560 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: f393a78a-deb1-4098-8095-76801fe5fa0b)
+2021/03/13 17:14:08.353  1955 139821054554560 GX0   InterProcessBase::ShutDown: Shutdown IPC
+2021/03/13 17:14:08.355  1955 139821014918720 GX0   TcpProcessConnector::HandleRead(): Socket gracefully closed (PID=452)
+2021/03/13 17:14:08.355  1955 139821014918720 GX0   TcpProcessConnector::CloseConnection(): PID=452
+2021/03/13 17:14:08.355  1955 139821014918720 GX0   InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+2021/03/13 17:14:08.355  1955 139821014918720 GX0   TcpProcessConnector::CloseConnection(): PID=452
+2021/03/13 17:14:08.356  1955 139821014918720 GX0   TcpProcessConnector::CloseConnection(): Shutdown socket returned error 107: Noeud final de transport n'est pas connecté
+2021/03/13 17:14:08.356  1955 139821054554560 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: 886c3b1b-e875-4e39-ad17-90e3713723a6)
+2021/03/13 17:14:08.356  1955 139821054554560 GX0   interprocessbase::SecureNetwork destroyed

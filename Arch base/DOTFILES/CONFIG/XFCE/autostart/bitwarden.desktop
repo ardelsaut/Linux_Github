@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.24.6
+Name=Bitwarden
+Comment=Bitwarden startup script
+Exec=/opt/Bitwarden/bitwarden
+StartupNotify=false
+Terminal=false

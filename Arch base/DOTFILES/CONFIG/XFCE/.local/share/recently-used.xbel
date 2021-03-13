@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/nono/Images/WALLPAPER" added="2021-03-13T19:40:37.403136Z" modified="2021-03-13T19:40:37.403140Z" visited="2021-03-13T19:40:37.403136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="variety" exec="&apos;variety %u&apos;" modified="2021-03-13T19:40:37.403138Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nono/.bin/main/swapfile/change-the-size-of-your-current-swapfile.sh" added="2021-03-13T22:25:36.021334Z" modified="2021-03-13T22:25:36.021336Z" visited="2021-03-13T22:25:36.021334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-03-13T22:25:36.021335Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nono/.bin/main/samba/1-install-samba-v3.sh" added="2021-03-13T22:27:00.735925Z" modified="2021-03-13T22:27:00.735928Z" visited="2021-03-13T22:27:00.735925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-03-13T22:27:00.735926Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nono/.bin/main/fixes/make-bluetooth-systemicon-visible-again.sh" added="2021-03-13T22:29:56.612574Z" modified="2021-03-13T22:29:56.612577Z" visited="2021-03-13T22:29:56.612574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-03-13T22:29:56.612575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nono/.bin/arco" added="2021-03-13T22:31:15.986118Z" modified="2021-03-13T22:31:15.986120Z" visited="2021-03-13T22:31:15.986118Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-03-13T22:31:15.986119Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nono/.bin/fetch" added="2021-03-13T22:31:41.917003Z" modified="2021-03-13T22:31:41.917005Z" visited="2021-03-13T22:31:41.917003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-03-13T22:31:41.917004Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,1 @@
+conky -c /home/nono/.config/conky/AUR-Concise-Inf-Froly.conkyrc & sleep 1s

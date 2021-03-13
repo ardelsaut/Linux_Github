@@ -1,0 +1,642 @@
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: une instance de gpg-agent fonctionne déjà —
+pas de démarrage d'une nouvelle instance
+
+(xfwm4:866): xfwm4-WARNING **: 20:49:00.893: Unsupported GL renderer (SVGA3D; build: RELEASE;  LLVM;).
+
+** (wrapper-2.0:888): WARNING **: 20:49:02.602: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:888): pulseaudio-plugin-WARNING **: 20:49:02.602: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:888): libnotify-WARNING **: 20:49:02.618: Failed to connect to proxy
+
+(wrapper-2.0:886): Gtk-WARNING **: 20:49:02.640: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:888): Gtk-WARNING **: 20:49:02.658: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:898): Gtk-WARNING **: 20:49:02.969: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkButton)
+conky: cannot open /home/erik/.config/conky/AUR-Misty-LUA.conkyrc: Aucun fichier ou dossier de ce type
+
+** (xfce4-clipman:922): WARNING **: 20:49:03.396: Unable to register GApplication: Un objet est déjà exporté pour l’interface « org.gtk.Application » en « /org/xfce/clipman »
+
+(xfce4-clipman:922): GLib-GIO-CRITICAL **: 20:49:03.396: g_application_get_is_remote: assertion 'application->priv->is_registered' failed
+
+(xfce4-clipman:922): GLib-WARNING **: 20:49:03.396: g_set_application_name() called multiple times
+
+** (xfce4-power-manager:949): WARNING **: 20:49:03.840: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:949): WARNING **: 20:49:03.884: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:949): libnotify-WARNING **: 20:49:04.196: Failed to connect to proxy
+** Message: 20:49:04.362: tray.vala:166: checking updates is not enabled, exiting
+
+(xfce4-power-manager:949): GLib-GObject-WARNING **: 20:49:04.396: ../glib/gobject/gsignal.c:2614: signal 'Changed' is invalid for instance '0x56528a7584d0' of type 'GDBusProxy'
+
+(xfce4-power-manager:949): xfce4-power-manager-WARNING **: 20:49:04.490: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:949): WARNING **: 20:49:04.524: No outputs have backlight property
+
+(xfce4-power-manager:949): xfce4-power-manager-WARNING **: 20:49:04.550: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’interface « org.freedesktop.UPower.KbdBacklight » n’existe pas pour l’objet à l’emplacement /org/freedesktop/UPower/KbdBacklight
+xdg-settings: default-url-scheme-handler not implemented for xfce
+(node:2254) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'setContextMenu' of undefined
+    at tray_main_TrayMain.updateContextMenu (/opt/Bitwarden/resources/app.asar/main.js:19231:23)
+    at messaging_main_MessagingMain.updateTrayMenu (/opt/Bitwarden/resources/app.asar/main.js:18762:28)
+    at messaging_main_MessagingMain.onMessage (/opt/Bitwarden/resources/app.asar/main.js:18703:22)
+    at messaging_main_MessagingMain.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:154)
+    at Generator.next (<anonymous>)
+    at /opt/Bitwarden/resources/app.asar/main.js:18672:71
+    at new Promise (<anonymous>)
+    at messaging_main_awaiter (/opt/Bitwarden/resources/app.asar/main.js:18668:12)
+    at EventEmitter.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:82)
+    at EventEmitter.emit (events.js:200:13)
+(node:2254) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'setContextMenu' of undefined
+    at tray_main_TrayMain.updateContextMenu (/opt/Bitwarden/resources/app.asar/main.js:19231:23)
+    at messaging_main_MessagingMain.updateTrayMenu (/opt/Bitwarden/resources/app.asar/main.js:18762:28)
+    at messaging_main_MessagingMain.onMessage (/opt/Bitwarden/resources/app.asar/main.js:18703:22)
+    at messaging_main_MessagingMain.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:154)
+    at Generator.next (<anonymous>)
+    at /opt/Bitwarden/resources/app.asar/main.js:18672:71
+    at new Promise (<anonymous>)
+    at messaging_main_awaiter (/opt/Bitwarden/resources/app.asar/main.js:18668:12)
+    at EventEmitter.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:82)
+    at EventEmitter.emit (events.js:200:13)
+(node:2254) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:2254) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:2254) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2254) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2254) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'setContextMenu' of undefined
+    at tray_main_TrayMain.updateContextMenu (/opt/Bitwarden/resources/app.asar/main.js:19231:23)
+    at messaging_main_MessagingMain.updateTrayMenu (/opt/Bitwarden/resources/app.asar/main.js:18762:28)
+    at messaging_main_MessagingMain.onMessage (/opt/Bitwarden/resources/app.asar/main.js:18703:22)
+    at messaging_main_MessagingMain.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:154)
+    at Generator.next (<anonymous>)
+    at /opt/Bitwarden/resources/app.asar/main.js:18672:71
+    at new Promise (<anonymous>)
+    at messaging_main_awaiter (/opt/Bitwarden/resources/app.asar/main.js:18668:12)
+    at EventEmitter.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:82)
+    at EventEmitter.emit (events.js:200:13)
+(node:2254) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'setContextMenu' of undefined
+    at tray_main_TrayMain.updateContextMenu (/opt/Bitwarden/resources/app.asar/main.js:19231:23)
+    at messaging_main_MessagingMain.updateTrayMenu (/opt/Bitwarden/resources/app.asar/main.js:18762:28)
+    at messaging_main_MessagingMain.onMessage (/opt/Bitwarden/resources/app.asar/main.js:18703:22)
+    at messaging_main_MessagingMain.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:154)
+    at Generator.next (<anonymous>)
+    at /opt/Bitwarden/resources/app.asar/main.js:18672:71
+    at new Promise (<anonymous>)
+    at messaging_main_awaiter (/opt/Bitwarden/resources/app.asar/main.js:18668:12)
+    at EventEmitter.<anonymous> (/opt/Bitwarden/resources/app.asar/main.js:18694:82)
+    at EventEmitter.emit (events.js:200:13)
+(node:2254) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:2254) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+Server path not specified, so defaulting to ipc.config.socketRoot + ipc.config.appspace + ipc.config.id /tmp/app.bitwarden
+starting server on  /tmp/app.bitwarden 
+starting TLS server false
+starting server as Unix || Windows Socket
+
+(wrapper-2.0:887): libsystray-CRITICAL **: 23:00:46.147: sn_item_invalidate: assertion 'item->properties_proxy != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:01:48.336: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:01:48.340: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:01:49.147: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:05:13.320: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:05:13.325: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:05:14.146: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:05:31.063: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:05:31.066: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:05:32.146: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(wrapper-2.0:886): Gtk-WARNING **: 23:05:36.217: Content added to the action area of a dialog using header bars
+
+(wrapper-2.0:886): Gtk-WARNING **: 23:05:36.217: Content added to the action area of a dialog using header bars
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:07:43.596: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:07:43.601: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+
+(xfce4-panel:874): garcon-CRITICAL **: 23:07:45.145: garcon_gtk_menu_get_desktop_actions_menu: assertion 'actions != NULL' failed
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - desktop
+conky: drawing to created window (0x3c00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 4096
+
+mv: impossible d'évaluer '/home/nono/.config/conky/saved-sessions.bkp': Aucun fichier ou dossier de ce type
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - desktop
+conky: drawing to created window (0x3c00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 7156
+
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - desktop
+conky: drawing to created window (0x3c00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 8929
+
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - normal
+conky: drawing to created window (0x4200002)
+conky: drawing to double buffer
+conky: Unknown setting 'mpd_port'
+conky: forked to background, pid is 9589
+
+jq: error: Could not open file /home/nono/.cache/weather.json: No such file or directory
+jq: error: Could not open file /home/nono/.cache/forecast.json: No such file or directory
+jq: error: Could not open file /home/nono/.cache/weather.json: No such file or directory
+jq: error: Could not open file /home/nono/.cache/weather.json: No such file or directory
+jq: error: Could not open file /home/nono/.cache/weather.json: No such file or directory
+jq: error: Could not open file /home/nono/.cache/forecast.json: No such file or directory
+cp: impossible d'évaluer '/home/nono/.config/conky/images/weather-icons/64px-white/.png': Aucun fichier ou dossier de ce type
+conky: Unable to load image '/home/nono/.cache/current.png'
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - desktop
+conky: drawing to created window (0x3c00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 11370
+
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - desktop
+conky: drawing to created window (0x4200002)
+conky: drawing to double buffer
+conky: forked to background, pid is 11842
+
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - normal
+conky: drawing to created window (0x4400002)
+conky: drawing to double buffer
+conky: Unknown setting 'mpd_port'
+conky: forked to background, pid is 12390
+
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+conky: conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: desktop window (c0012c) is subwindow of root window (14c)
+conky: window type - desktop
+conky: drawing to created window (0x3c00002)
+conky: drawing to double buffer
+conky: forked to background, pid is 14247
+
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2192, resource id: 8653087, major code: 40 (TranslateCoords), minor code: 0
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+[14499:14499:0313/231401.189975:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[14499:14499:0313/231401.190118:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:25:35.616: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:27:00.314: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:27:44.188: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:29:56.260: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:30:26.265: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:31:15.637: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+
+** (zeitgeist-datahub:958): WARNING **: 23:31:41.495: zeitgeist-datahub.vala:207: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.
+No sensors found!
+Make sure you loaded all the kernel drivers you need.
+Try sensors-detect to find out which these are.

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=Add/Remove Software
+Name[fr]=Ajouter/supprimer des logiciels
+Comment=Add or remove software installed on the system
+Comment[fr]=Ajouter ou supprimer des logiciels installés sur le système
+Keywords[fr]=mises à jour;mise à niveau;sources;dépôts;préférences;installer;désinstaller;programmes;logiciels;applications;magasin;boutique;
+Icon=system-software-install
+Exec=pamac-manager %U
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;PackageManager;Settings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+StartupNotify=true
+MimeType=x-scheme-handler/appstream;x-scheme-handler/snap;
+X-GNOME-UsesNotifications=true
+StartupWMClass=pamac-manager
+DBusActivatable=true
+Actions=updates;
+X-XFCE-Source=file:///usr/share/applications/org.manjaro.pamac.manager.desktop
+
+[Desktop Action updates]
+Name=Software Update
+Name[fr]=Mise à jour des logiciels
+Exec=pamac-manager --updates
